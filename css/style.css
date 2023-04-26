@@ -1,0 +1,68 @@
+
+
+
+
+
+.clo{
+	display: inline;
+
+}
+.dis{
+	width: 300px;
+	background:skyblue;
+
+}
+.pad{
+	width: 150px ;
+	height:150px;
+	background: yellowgreen;
+	padding: 20px 30px 15px 10px;
+
+}
+.mar{
+	width:120px;
+	height:120px;
+	margin: 20px;
+}
+.blue{
+	background: blue;
+}
+.green{
+	background: green;
+}
+.wh{
+	width: 30%;
+	height: 300px;
+	margin-bottom: 40px;
+}
+.tra{
+	background: blue;
+	width: 200px;
+	opacity: .5;
+}
+.tra2{
+	background: green;
+	width: 200px;
+	opacity: .3;
+}
+.tra3{
+	background: yellowgreen;
+	width: 200px;
+	opacity: .1;
+}
+
+.bgc{
+ background-image: url(bg.jpg);
+}
+.bor{ border-style: outset;
+	border-width: 4px;
+	border-color: blue;
+	border-radius: 20px;
+	padding: 20px;
+	background: yellowgreen;
+	width: 400px;
+}
+.box{
+width: 400px;
+height: 400px;
+}
